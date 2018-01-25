@@ -3,5 +3,5 @@ Java
 
 Calculate the Banking Functionality with Currency Convertion
 
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![Alt text](https://github.com/vimalMK/Currency-Converter-Calculator/blob/master/cv.JPG)
 
