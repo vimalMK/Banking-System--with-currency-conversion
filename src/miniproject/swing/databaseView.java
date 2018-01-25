@@ -10,9 +10,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 public class databaseView {
-	
-	  static String fileName = "C:/Myworkspace/swingapp/src/miniproject/swing/temp.txt";
-	  static  String fileNametemp = "C:/Myworkspace/swingapp/src/miniproject/swing/temp1.txt";
+
 	  
 	  static ArrayList al = new ArrayList(20); 
       static  String line = null;
